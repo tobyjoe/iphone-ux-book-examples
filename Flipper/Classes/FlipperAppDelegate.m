@@ -3,7 +3,7 @@
 //  Flipper
 //
 //  Created by Toby Boudreaux on 12/29/08.
-//  Copyright CTO, The Barbarian Group 2008. All rights reserved.
+//  Copyright 2008-2009 Toby Joe Boudreaux. All rights reserved.
 //
 
 #import "FlipperAppDelegate.h"

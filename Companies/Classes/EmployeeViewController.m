@@ -3,7 +3,7 @@
 //  Companies
 //
 //  Created by Toby Boudreaux on 1/25/09.
-//  Copyright 2009 CTO, The Barbarian Group. All rights reserved.
+//  Copyright 2008-2009 Toby Joe Boudreaux. All rights reserved.
 //
 
 #import "EmployeeViewController.h"
