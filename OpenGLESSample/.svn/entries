@@ -1,70 +1,0 @@
-8
-
-dir
-155925
-https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/OpenGLESSample
-https://prod.oreilly.com
-
-
-
-2008-11-03T21:58:08.475756Z
-116515
-tj@tobyjoe.com
-
-
-svn:special svn:externals svn:needs-lock
-
-main.m
-file
-
-
-
-
-2008-11-02T20:02:08.000000Z
-0ede96a842fa42bab05979a76c05c557
-2008-11-03T21:58:08.475756Z
-116515
-tj@tobyjoe.com
-
-OpenGLESSample_Prefix.pch
-file
-
-
-
-
-2008-11-02T20:02:08.000000Z
-a9da68ab747095197f276609cf535822
-2008-11-03T21:58:08.475756Z
-116515
-tj@tobyjoe.com
-
-Info.plist
-file
-
-
-
-
-2008-11-02T20:02:08.000000Z
-21ec0dfdd3ba71ebd3dca4b9576773b1
-2008-11-03T21:58:08.475756Z
-116515
-tj@tobyjoe.com
-
-OpenGLESSample.xcodeproj
-dir
-
-Classes
-dir
-
-MainWindow.xib
-file
-
-
-
-
-2008-11-02T20:02:08.000000Z
-90166e69923bbf230798c8f4b4be8484
-2008-11-03T21:58:08.475756Z
-116515
-tj@tobyjoe.com
-
