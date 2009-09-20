@@ -1,0 +1,366 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* ModalButtonAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {909, 503}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 513}";
+		};
+	};
+	1D3623250D0F684500981E51 /* ModalButtonAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {909, 585}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 648}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ModalButton */ = {
+		activeExec = 0;
+		executables = (
+			DA86335F0EFEFF00007C19BA /* ModalButton */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ModalButtonViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {909, 562}}";
+			sepNavSelRange = "{296, 0}";
+			sepNavVisRange = "{0, 354}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ModalButtonViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {909, 585}}";
+			sepNavSelRange = "{167, 618}";
+			sepNavVisRange = "{0, 785}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DA86335F0EFEFF00007C19BA /* ModalButton */;
+		activeSDKPreference = iphonesimulator2.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ModalButton */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ModalButton */,
+		);
+		codeSenseManager = DA86336B0EFEFF1F007C19BA /* Code sense */;
+		executables = (
+			DA86335F0EFEFF00007C19BA /* ModalButton */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					731,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 251592448;
+			PBXWorkspaceStateSaveDate = 251592448;
+		};
+		perUserProjectItems = {
+			DA8633A20F002072007C19BA /* PBXTextBookmark */ = DA8633A20F002072007C19BA /* PBXTextBookmark */;
+			DA8635C30F029BF2007C19BA /* PBXTextBookmark */ = DA8635C30F029BF2007C19BA /* PBXTextBookmark */;
+			DA86361C0F02A06E007C19BA /* PBXTextBookmark */ = DA86361C0F02A06E007C19BA /* PBXTextBookmark */;
+			DA8636210F02A06E007C19BA /* PBXTextBookmark */ = DA8636210F02A06E007C19BA /* PBXTextBookmark */;
+			DA8636300F02A0B2007C19BA /* PBXTextBookmark */ = DA8636300F02A0B2007C19BA /* PBXTextBookmark */;
+			DA8636360F02A0CC007C19BA /* PBXTextBookmark */ = DA8636360F02A0CC007C19BA /* PBXTextBookmark */;
+			DA8636380F02A0CC007C19BA /* PBXTextBookmark */ = DA8636380F02A0CC007C19BA /* PBXTextBookmark */;
+			DA86363E0F02A0DE007C19BA /* PBXTextBookmark */ = DA86363E0F02A0DE007C19BA /* PBXTextBookmark */;
+			DA8636490F02A1B0007C19BA /* PBXTextBookmark */ = DA8636490F02A1B0007C19BA /* PBXTextBookmark */;
+			DA8636640F02A2ED007C19BA /* PBXTextBookmark */ = DA8636640F02A2ED007C19BA /* PBXTextBookmark */;
+			DA8636660F02A2ED007C19BA /* PBXTextBookmark */ = DA8636660F02A2ED007C19BA /* PBXTextBookmark */;
+			DA86366F0F02A317007C19BA /* PBXTextBookmark */ = DA86366F0F02A317007C19BA /* PBXTextBookmark */;
+			DA8636810F02A4D5007C19BA /* PBXTextBookmark */ = DA8636810F02A4D5007C19BA /* PBXTextBookmark */;
+			DA86368E0F02B4EA007C19BA /* PBXTextBookmark */ = DA86368E0F02B4EA007C19BA /* PBXTextBookmark */;
+			DA8636910F02B4EA007C19BA /* PBXTextBookmark */ = DA8636910F02B4EA007C19BA /* PBXTextBookmark */;
+			DA8636920F02B4EA007C19BA /* PBXTextBookmark */ = DA8636920F02B4EA007C19BA /* PBXTextBookmark */;
+			DA8636960F02B52D007C19BA /* PBXTextBookmark */ = DA8636960F02B52D007C19BA /* PBXTextBookmark */;
+			DA8636970F02B52D007C19BA /* PBXTextBookmark */ = DA8636970F02B52D007C19BA /* PBXTextBookmark */;
+			DA8636990F02B592007C19BA /* PBXTextBookmark */ = DA8636990F02B592007C19BA /* PBXTextBookmark */;
+			DA86369A0F02B592007C19BA /* PBXTextBookmark */ = DA86369A0F02B592007C19BA /* PBXTextBookmark */;
+			DA8636AA0F030742007C19BA /* PBXTextBookmark */ = DA8636AA0F030742007C19BA /* PBXTextBookmark */;
+		};
+		sourceControlManager = DA86336A0EFEFF1F007C19BA /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	DA86335F0EFEFF00007C19BA /* ModalButton */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ModalButton;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	DA86336A0EFEFF1F007C19BA /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	DA86336B0EFEFF1F007C19BA /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DA8633930F001FD4007C19BA /* ModalButton.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {909, 585}}";
+			sepNavSelRange = "{153, 650}";
+			sepNavVisRange = "{0, 803}";
+			sepNavWindowFrame = "{{19, 32}, {1276, 841}}";
+		};
+	};
+	DA8633940F001FD4007C19BA /* ModalButton.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1231, 1932}}";
+			sepNavSelRange = "{2917, 0}";
+			sepNavVisRange = "{1732, 362}";
+		};
+	};
+	DA8633A20F002072007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ModalButtonViewController.m */;
+		name = "ModalButtonViewController.m: 39";
+		rLen = 0;
+		rLoc = 470;
+		rType = 0;
+		vrLen = 1193;
+		vrLoc = 355;
+	};
+	DA8635C30F029BF2007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ModalButtonViewController.h */;
+		name = "ModalButtonViewController.h: 14";
+		rLen = 0;
+		rLoc = 296;
+		rType = 0;
+		vrLen = 371;
+		vrLoc = 0;
+	};
+	DA86361C0F02A06E007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* ModalButtonViewController.h */;
+		name = "ModalButtonViewController.h: 14";
+		rLen = 0;
+		rLoc = 296;
+		rType = 0;
+		vrLen = 354;
+		vrLoc = 0;
+	};
+	DA8636210F02A06E007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633930F001FD4007C19BA /* ModalButton.h */;
+		name = "ModalButton.h: 26";
+		rLen = 0;
+		rLoc = 714;
+		rType = 0;
+		vrLen = 570;
+		vrLoc = 0;
+	};
+	DA8636300F02A0B2007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633930F001FD4007C19BA /* ModalButton.h */;
+		name = "ModalButton.h: 26";
+		rLen = 0;
+		rLoc = 714;
+		rType = 0;
+		vrLen = 570;
+		vrLoc = 0;
+	};
+	DA8636360F02A0CC007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633930F001FD4007C19BA /* ModalButton.h */;
+		name = "ModalButton.h: 31";
+		rLen = 0;
+		rLoc = 797;
+		rType = 0;
+		vrLen = 624;
+		vrLoc = 0;
+	};
+	DA8636380F02A0CC007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633930F001FD4007C19BA /* ModalButton.h */;
+		name = "ModalButton.h: 31";
+		rLen = 0;
+		rLoc = 797;
+		rType = 0;
+		vrLen = 605;
+		vrLoc = 0;
+	};
+	DA86363E0F02A0DE007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633930F001FD4007C19BA /* ModalButton.h */;
+		name = "ModalButton.h: 21";
+		rLen = 0;
+		rLoc = 599;
+		rType = 0;
+		vrLen = 605;
+		vrLoc = 0;
+	};
+	DA8636490F02A1B0007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633930F001FD4007C19BA /* ModalButton.h */;
+		name = "ModalButton.h: 14";
+		rLen = 0;
+		rLoc = 353;
+		rType = 0;
+		vrLen = 697;
+		vrLoc = 0;
+	};
+	DA8636640F02A2ED007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633930F001FD4007C19BA /* ModalButton.h */;
+		name = "ModalButton.h: 16";
+		rLen = 0;
+		rLoc = 459;
+		rType = 0;
+		vrLen = 706;
+		vrLoc = 0;
+	};
+	DA8636660F02A2ED007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633930F001FD4007C19BA /* ModalButton.h */;
+		name = "ModalButton.h: 19";
+		rLen = 0;
+		rLoc = 459;
+		rType = 0;
+		vrLen = 832;
+		vrLoc = 0;
+	};
+	DA86366F0F02A317007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633930F001FD4007C19BA /* ModalButton.h */;
+		name = "ModalButton.h: 20";
+		rLen = 0;
+		rLoc = 459;
+		rType = 0;
+		vrLen = 766;
+		vrLoc = 0;
+	};
+	DA8636810F02A4D5007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633930F001FD4007C19BA /* ModalButton.h */;
+		name = "ModalButton.h: 31";
+		rLen = 0;
+		rLoc = 713;
+		rType = 0;
+		vrLen = 803;
+		vrLoc = 0;
+	};
+	DA86368E0F02B4EA007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* ModalButtonViewController.m */;
+		name = "ModalButtonViewController.m: 9";
+		rLen = 618;
+		rLoc = 167;
+		rType = 0;
+		vrLen = 785;
+		vrLoc = 0;
+	};
+	DA8636910F02B4EA007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633940F001FD4007C19BA /* ModalButton.m */;
+		name = "ModalButton.m: 117";
+		rLen = 0;
+		rLoc = 2783;
+		rType = 0;
+		vrLen = 1114;
+		vrLoc = 0;
+	};
+	DA8636920F02B4EA007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633930F001FD4007C19BA /* ModalButton.h */;
+		name = "ModalButton.h: 31";
+		rLen = 0;
+		rLoc = 713;
+		rType = 0;
+		vrLen = 803;
+		vrLoc = 0;
+	};
+	DA8636960F02B52D007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633940F001FD4007C19BA /* ModalButton.m */;
+		name = "ModalButton.m: 49";
+		rLen = 0;
+		rLoc = 1281;
+		rType = 0;
+		vrLen = 923;
+		vrLoc = 1175;
+	};
+	DA8636970F02B52D007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633940F001FD4007C19BA /* ModalButton.m */;
+		name = "ModalButton.m: 49";
+		rLen = 0;
+		rLoc = 1281;
+		rType = 0;
+		vrLen = 923;
+		vrLoc = 1175;
+	};
+	DA8636990F02B592007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633930F001FD4007C19BA /* ModalButton.h */;
+		name = "ModalButton.h: 9";
+		rLen = 650;
+		rLoc = 153;
+		rType = 0;
+		vrLen = 803;
+		vrLoc = 0;
+	};
+	DA86369A0F02B592007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633930F001FD4007C19BA /* ModalButton.h */;
+		name = "ModalButton.h: 9";
+		rLen = 650;
+		rLoc = 153;
+		rType = 0;
+		vrLen = 803;
+		vrLoc = 0;
+	};
+	DA8636AA0F030742007C19BA /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DA8633940F001FD4007C19BA /* ModalButton.m */;
+		name = "ModalButton.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1113;
+		vrLoc = 0;
+	};
+}

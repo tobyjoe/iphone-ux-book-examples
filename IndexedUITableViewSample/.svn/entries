@@ -1,0 +1,82 @@
+8
+
+dir
+155925
+https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/IndexedUITableViewSample
+https://prod.oreilly.com
+
+
+
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+IndexedUITableViewSample.xcodeproj
+dir
+
+main.m
+file
+
+
+
+
+2008-11-01T21:27:30.000000Z
+8f6c7a32a420cc74fc1ed62c33e948dd
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+RootViewController.xib
+file
+
+
+
+
+2008-11-01T21:27:30.000000Z
+36e6224c8b964a0621e888d185458ff5
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+Info.plist
+file
+
+
+
+
+2008-11-01T21:27:30.000000Z
+21ec0dfdd3ba71ebd3dca4b9576773b1
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+IndexedUITableViewSample_Prefix.pch
+file
+
+
+
+
+2008-11-01T21:27:30.000000Z
+470ecb5343c4d81fd3332c57f66a21e0
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+Classes
+dir
+
+MainWindow.xib
+file
+
+
+
+
+2008-11-01T21:27:30.000000Z
+2ffac3d8558a14c703a589fd051a5a1e
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/152548/external/authors/books/9780596155469/current/projects/Flipper/Classes
+END
+BackView.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/152548/external/authors/books/9780596155469/current/projects/Flipper/Classes/BackView.h
+END
+FlipperView.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/152548/external/authors/books/9780596155469/current/projects/Flipper/Classes/FlipperView.h
+END
+FlipperAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/Flipper/Classes/FlipperAppDelegate.h
+END
+BackView.m
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/152548/external/authors/books/9780596155469/current/projects/Flipper/Classes/BackView.m
+END
+FlipperViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/Flipper/Classes/FlipperViewController.h
+END
+FlipperView.m
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/152548/external/authors/books/9780596155469/current/projects/Flipper/Classes/FlipperView.m
+END
+FlipperAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/Flipper/Classes/FlipperAppDelegate.m
+END
+FrontView.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/152548/external/authors/books/9780596155469/current/projects/Flipper/Classes/FrontView.h
+END
+FlipperViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/Flipper/Classes/FlipperViewController.m
+END
+FrontView.m
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/152548/external/authors/books/9780596155469/current/projects/Flipper/Classes/FrontView.m
+END

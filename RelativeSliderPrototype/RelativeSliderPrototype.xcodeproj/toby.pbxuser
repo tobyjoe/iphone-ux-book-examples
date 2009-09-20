@@ -1,0 +1,138 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* RelativeSliderPrototype */ = {
+		activeExec = 0;
+		executables = (
+			DADEDB600F3B728A00EB2D57 /* RelativeSliderPrototype */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DADEDB600F3B728A00EB2D57 /* RelativeSliderPrototype */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* RelativeSliderPrototype */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* RelativeSliderPrototype */,
+		);
+		codeSenseManager = DADEDB6D0F3B729E00EB2D57 /* Code sense */;
+		executables = (
+			DADEDB600F3B728A00EB2D57 /* RelativeSliderPrototype */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					940,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					738,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 255578350;
+			PBXWorkspaceStateSaveDate = 255578350;
+		};
+		perUserProjectItems = {
+			DAB986920F3BDB1800E2EAE1 /* PBXTextBookmark */ = DAB986920F3BDB1800E2EAE1 /* PBXTextBookmark */;
+			DADEDB790F3BB6D600EB2D57 /* PBXTextBookmark */ = DADEDB790F3BB6D600EB2D57 /* PBXTextBookmark */;
+		};
+		sourceControlManager = DADEDB6C0F3B729E00EB2D57 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	DAB986920F3BDB1800E2EAE1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DADEDB6E0F3B72AD00EB2D57 /* TJRelativeSlider.h */;
+		name = "TJRelativeSlider.h: 13";
+		rLen = 0;
+		rLoc = 244;
+		rType = 0;
+		vrLen = 253;
+		vrLoc = 0;
+	};
+	DADEDB600F3B728A00EB2D57 /* RelativeSliderPrototype */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = RelativeSliderPrototype;
+		sourceDirectories = (
+		);
+	};
+	DADEDB6C0F3B729E00EB2D57 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	DADEDB6D0F3B729E00EB2D57 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DADEDB6E0F3B72AD00EB2D57 /* TJRelativeSlider.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {956, 580}}";
+			sepNavSelRange = "{244, 0}";
+			sepNavVisRange = "{0, 253}";
+		};
+	};
+	DADEDB790F3BB6D600EB2D57 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DADEDB6E0F3B72AD00EB2D57 /* TJRelativeSlider.h */;
+		name = "TJRelativeSlider.h: 13";
+		rLen = 0;
+		rLoc = 244;
+		rType = 0;
+		vrLen = 253;
+		vrLoc = 0;
+	};
+}

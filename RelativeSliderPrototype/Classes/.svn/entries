@@ -1,0 +1,88 @@
+8
+
+dir
+155925
+https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/RelativeSliderPrototype/Classes
+https://prod.oreilly.com
+
+
+
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+TJRelativeSlider.h
+file
+
+
+
+
+2009-02-05T19:17:23.000000Z
+de58f6899e360c8f398d00cee57db84a
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+RelativeSliderPrototypeAppDelegate.h
+file
+
+
+
+
+2009-02-05T19:16:26.000000Z
+096a44e0dbab0261bff9613f9521ea6b
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+TJRelativeSlider.m
+file
+
+
+
+
+2009-02-05T19:17:01.000000Z
+a11518e1814df9aed363e62714395180
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+RelativeSliderPrototypeViewController.h
+file
+
+
+
+
+2009-02-05T19:16:26.000000Z
+abfbd1c48fb42264b0cd05f2be353c35
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+RelativeSliderPrototypeAppDelegate.m
+file
+
+
+
+
+2009-02-05T19:16:26.000000Z
+270a4daa1c5bcf2e92cf2cdf23d61a73
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+RelativeSliderPrototypeViewController.m
+file
+
+
+
+
+2009-02-05T19:16:26.000000Z
+68bd39d00e0cb949f81bac731d5dd71e
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+

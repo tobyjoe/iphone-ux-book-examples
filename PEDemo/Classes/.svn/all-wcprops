@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/PEDemo/Classes
+END
+BaseView.m
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/PEDemo/Classes/BaseView.m
+END
+PEDemoAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/PEDemo/Classes/PEDemoAppDelegate.m
+END
+SettingsViewControllerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/PEDemo/Classes/SettingsViewControllerDelegate.h
+END
+SecondaryViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/PEDemo/Classes/SecondaryViewController.m
+END
+SettingsViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/PEDemo/Classes/SettingsViewController.h
+END
+RootViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/PEDemo/Classes/RootViewController.h
+END
+SettingsViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/PEDemo/Classes/SettingsViewController.m
+END
+BaseView.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/PEDemo/Classes/BaseView.h
+END
+PEDemoAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/PEDemo/Classes/PEDemoAppDelegate.h
+END
+SecondaryViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/PEDemo/Classes/SecondaryViewController.h
+END
+RootViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/PEDemo/Classes/RootViewController.m
+END

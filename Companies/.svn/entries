@@ -1,0 +1,94 @@
+8
+
+dir
+155925
+https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/Companies
+https://prod.oreilly.com
+
+
+
+2009-03-08T23:17:37.322295Z
+137121
+tj@tobyjoe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+116dc4a9-b042-40dd-b87b-4fe04d0a746b
+
+main.m
+file
+
+
+
+
+2009-01-25T19:15:38.000000Z
+f6116a9ddd257c9f2623728c7ac5f33d
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+RootViewController.xib
+file
+
+
+
+
+2009-01-25T19:15:38.000000Z
+57ce93e989dc240865128c956aa752cb
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+Companies_Prefix.pch
+file
+
+
+
+
+2009-01-25T19:15:38.000000Z
+61cebab58bab584795a7697f8f1875a3
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+Info.plist
+file
+
+
+
+
+2009-01-25T19:15:38.000000Z
+fd8d6f7c01cc14c6e01f6184572a6ba3
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+Companies.xcodeproj
+dir
+
+Classes
+dir
+
+MainWindow.xib
+file
+
+
+
+
+2009-01-25T19:15:38.000000Z
+cb31777977bbe38d76900039d31850a9
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+

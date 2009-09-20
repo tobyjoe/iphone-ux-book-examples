@@ -1,0 +1,140 @@
+// !$*UTF8*$!
+{
+	1D3623250D0F684500981E51 /* ScrollingControlAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 745}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 671}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* ScrollingControl */ = {
+		activeExec = 0;
+		executables = (
+			DAE0D6F60F0E8FBA00F94037 /* ScrollingControl */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* ScrollingControlViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 745}}";
+			sepNavSelRange = "{0, 174}";
+			sepNavVisRange = "{0, 175}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* ScrollingControlViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 745}}";
+			sepNavSelRange = "{0, 956}";
+			sepNavVisRange = "{0, 956}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DAE0D6F60F0E8FBA00F94037 /* ScrollingControl */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* ScrollingControl */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* ScrollingControl */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = DAE0D7010F0E8FD200F94037 /* Code sense */;
+		executables = (
+			DAE0D6F60F0E8FBA00F94037 /* ScrollingControl */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					897,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 252947585;
+			PBXWorkspaceStateSaveDate = 252947585;
+		};
+		sourceControlManager = DAE0D7000F0E8FD200F94037 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	DAE0D6F60F0E8FBA00F94037 /* ScrollingControl */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = ScrollingControl;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	DAE0D7000F0E8FD200F94037 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	DAE0D7010F0E8FD200F94037 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DAE0D7030F0E902800F94037 /* Scroller.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 745}}";
+			sepNavSelRange = "{0, 163}";
+			sepNavVisRange = "{0, 163}";
+		};
+	};
+	DAE0D7040F0E902800F94037 /* Scroller.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 1302}}";
+			sepNavSelRange = "{0, 2215}";
+			sepNavVisRange = "{799, 1416}";
+		};
+	};
+	DAE0D7AF0F100F7E00F94037 /* NumView.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 745}}";
+			sepNavSelRange = "{0, 123}";
+			sepNavVisRange = "{0, 123}";
+		};
+	};
+	DAE0D7B00F100F7E00F94037 /* NumView.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1075, 745}}";
+			sepNavSelRange = "{0, 499}";
+			sepNavVisRange = "{0, 499}";
+		};
+	};
+}

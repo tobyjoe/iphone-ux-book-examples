@@ -1,0 +1,17 @@
+//
+//  BarGameViewController.h
+//  BarGame
+//
+//  Created by Toby Boudreaux on 12/2/08.
+//  Copyright CTO, The Barbarian Group 2008. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "PhotoView.h"
+
+@interface BarGameViewController : UIViewController {
+	PhotoView *photoView;
+}
+
+@end
+

@@ -1,0 +1,232 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* DraggableViewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 612}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 524}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* DraggableView */ = {
+		activeExec = 0;
+		executables = (
+			DAF6CD940EE6F77500A68C91 /* DraggableView */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* DraggableViewViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 612}}";
+			sepNavSelRange = "{215, 0}";
+			sepNavVisRange = "{0, 286}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* DraggableViewViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 840}}";
+			sepNavSelRange = "{841, 129}";
+			sepNavVisRange = "{256, 1248}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = DAF6CD940EE6F77500A68C91 /* DraggableView */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* DraggableView */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* DraggableView */,
+		);
+		codeSenseManager = DAF6CD9D0EE6F79300A68C91 /* Code sense */;
+		executables = (
+			DAF6CD940EE6F77500A68C91 /* DraggableView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					990,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 250024934;
+			PBXWorkspaceStateSaveDate = 250024934;
+		};
+		perUserProjectItems = {
+			DAF6CDA90EE6F90F00A68C91 /* PBXTextBookmark */ = DAF6CDA90EE6F90F00A68C91 /* PBXTextBookmark */;
+			DAF6CDAA0EE6F90F00A68C91 /* PBXTextBookmark */ = DAF6CDAA0EE6F90F00A68C91 /* PBXTextBookmark */;
+			DAF6CDAB0EE6F90F00A68C91 /* PBXTextBookmark */ = DAF6CDAB0EE6F90F00A68C91 /* PBXTextBookmark */;
+			DAF6CDBF0EE6F95400A68C91 /* PBXTextBookmark */ = DAF6CDBF0EE6F95400A68C91 /* PBXTextBookmark */;
+			DAF6CDD10EE6F9C500A68C91 /* PBXTextBookmark */ = DAF6CDD10EE6F9C500A68C91 /* PBXTextBookmark */;
+			DAF6CDD40EE6F9C500A68C91 /* PBXTextBookmark */ = DAF6CDD40EE6F9C500A68C91 /* PBXTextBookmark */;
+			DAF6CF270EE74DB100A68C91 /* PBXTextBookmark */ = DAF6CF270EE74DB100A68C91 /* PBXTextBookmark */;
+			DAF6CF280EE74DB100A68C91 /* PBXTextBookmark */ = DAF6CF280EE74DB100A68C91 /* PBXTextBookmark */;
+			DAF6CF290EE74DB100A68C91 /* PBXTextBookmark */ = DAF6CF290EE74DB100A68C91 /* PBXTextBookmark */;
+			DAF6CF2A0EE74DB100A68C91 /* PBXTextBookmark */ = DAF6CF2A0EE74DB100A68C91 /* PBXTextBookmark */;
+		};
+		sourceControlManager = DAF6CD9C0EE6F79300A68C91 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	DAF6CD940EE6F77500A68C91 /* DraggableView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = DraggableView;
+		sourceDirectories = (
+		);
+	};
+	DAF6CD990EE6F79300A68C91 /* Draggable.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 612}}";
+			sepNavSelRange = "{203, 0}";
+			sepNavVisRange = "{0, 218}";
+		};
+	};
+	DAF6CD9A0EE6F79300A68C91 /* Draggable.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1168, 612}}";
+			sepNavSelRange = "{285, 45}";
+			sepNavVisRange = "{0, 668}";
+		};
+	};
+	DAF6CD9C0EE6F79300A68C91 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	DAF6CD9D0EE6F79300A68C91 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	DAF6CDA90EE6F90F00A68C91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DraggableViewViewController.m */;
+		name = "DraggableViewViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1149;
+		vrLoc = 211;
+	};
+	DAF6CDAA0EE6F90F00A68C91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DAF6CD990EE6F79300A68C91 /* Draggable.h */;
+		name = "Draggable.h: 13";
+		rLen = 0;
+		rLoc = 210;
+		rType = 0;
+		vrLen = 219;
+		vrLoc = 0;
+	};
+	DAF6CDAB0EE6F90F00A68C91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DAF6CD9A0EE6F79300A68C91 /* Draggable.m */;
+		name = "Draggable.m: 34";
+		rLen = 0;
+		rLoc = 659;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 0;
+	};
+	DAF6CDBF0EE6F95400A68C91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DAF6CD990EE6F79300A68C91 /* Draggable.h */;
+		name = "Draggable.h: 12";
+		rLen = 0;
+		rLoc = 203;
+		rType = 0;
+		vrLen = 218;
+		vrLoc = 0;
+	};
+	DAF6CDD10EE6F9C500A68C91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* DraggableViewViewController.h */;
+		name = "DraggableViewViewController.h: 10";
+		rLen = 0;
+		rLoc = 215;
+		rType = 0;
+		vrLen = 286;
+		vrLoc = 0;
+	};
+	DAF6CDD40EE6F9C500A68C91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* DraggableViewViewController.h */;
+		name = "DraggableViewViewController.h: 10";
+		rLen = 0;
+		rLoc = 215;
+		rType = 0;
+		vrLen = 286;
+		vrLoc = 0;
+	};
+	DAF6CF270EE74DB100A68C91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DAF6CD9A0EE6F79300A68C91 /* Draggable.m */;
+		name = "Draggable.m: 17";
+		rLen = 45;
+		rLoc = 285;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 0;
+	};
+	DAF6CF280EE74DB100A68C91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DraggableViewViewController.m */;
+		name = "DraggableViewViewController.m: 34";
+		rLen = 94;
+		rLoc = 841;
+		rType = 0;
+		vrLen = 1248;
+		vrLoc = 256;
+	};
+	DAF6CF290EE74DB100A68C91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = DAF6CD9A0EE6F79300A68C91 /* Draggable.m */;
+		name = "Draggable.m: 17";
+		rLen = 45;
+		rLoc = 285;
+		rType = 0;
+		vrLen = 668;
+		vrLoc = 0;
+	};
+	DAF6CF2A0EE74DB100A68C91 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DraggableViewViewController.m */;
+		name = "DraggableViewViewController.m: 34";
+		rLen = 129;
+		rLoc = 841;
+		rType = 0;
+		vrLen = 1248;
+		vrLoc = 256;
+	};
+}

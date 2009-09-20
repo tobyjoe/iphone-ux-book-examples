@@ -1,0 +1,82 @@
+8
+
+dir
+155925
+https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/Twirl
+https://prod.oreilly.com
+
+
+
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+main.m
+file
+
+
+
+
+2008-12-03T17:51:29.000000Z
+00cc74ed9ce364318954a044f6eec74a
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+TwirlViewController.xib
+file
+
+
+
+
+2008-12-03T20:00:08.000000Z
+20754ced75ba39e654eb0bd253d15816
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+Info.plist
+file
+
+
+
+
+2008-12-03T17:51:29.000000Z
+fd8d6f7c01cc14c6e01f6184572a6ba3
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+Twirl_Prefix.pch
+file
+
+
+
+
+2008-12-03T17:51:29.000000Z
+31e609aff37aae92488e5bf7b0dfd570
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+Classes
+dir
+
+MainWindow.xib
+file
+
+
+
+
+2008-12-03T17:51:29.000000Z
+1594c266a7567489c60fd2d373a2f888
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+Twirl.xcodeproj
+dir
+

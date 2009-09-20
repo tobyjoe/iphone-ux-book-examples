@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/152548/external/authors/books/9780596155469/current/projects/UITableViewControllerChainSample
+END
+UITableViewControllerChainSample_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/116515/external/authors/books/9780596155469/current/projects/UITableViewControllerChainSample/UITableViewControllerChainSample_Prefix.pch
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/116515/external/authors/books/9780596155469/current/projects/UITableViewControllerChainSample/main.m
+END
+RootViewController.xib
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/116515/external/authors/books/9780596155469/current/projects/UITableViewControllerChainSample/RootViewController.xib
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/116515/external/authors/books/9780596155469/current/projects/UITableViewControllerChainSample/Info.plist
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/!svn/ver/116515/external/authors/books/9780596155469/current/projects/UITableViewControllerChainSample/MainWindow.xib
+END

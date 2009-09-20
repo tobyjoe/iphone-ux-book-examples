@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/Picker/Classes
+END
+PickerAppDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/Picker/Classes/PickerAppDelegate.h
+END
+PickerViewController.h
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/Picker/Classes/PickerViewController.h
+END
+PickerDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/Picker/Classes/PickerDelegate.m
+END
+PickerAppDelegate.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/Picker/Classes/PickerAppDelegate.m
+END
+LabeledPickerView.h
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/Picker/Classes/LabeledPickerView.h
+END
+PickerViewController.m
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/Picker/Classes/PickerViewController.m
+END
+LabeledPickerView.m
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/Picker/Classes/LabeledPickerView.m
+END
+PickerDelegate.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/137119/external/authors/books/9780596155469/current/projects/Picker/Classes/PickerDelegate.h
+END

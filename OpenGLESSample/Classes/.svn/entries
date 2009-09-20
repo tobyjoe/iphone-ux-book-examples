@@ -1,0 +1,64 @@
+8
+
+dir
+155925
+https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/OpenGLESSample/Classes
+https://prod.oreilly.com
+
+
+
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+OpenGLESSampleAppDelegate.h
+file
+
+
+
+
+2008-11-02T20:02:08.000000Z
+dd559cccd6129012e59e051ee58898cb
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+OpenGLESSampleAppDelegate.m
+file
+
+
+
+
+2008-11-02T20:02:08.000000Z
+5e434e2f60cd0214f52e6fcd175db8e5
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+EAGLView.h
+file
+
+
+
+
+2008-11-02T20:02:08.000000Z
+5ced0badc22133c79e8ed473c7ece112
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+EAGLView.m
+file
+
+
+
+
+2008-11-02T20:02:08.000000Z
+c6f5b82c110f9f4d11e4854f2906be24
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+

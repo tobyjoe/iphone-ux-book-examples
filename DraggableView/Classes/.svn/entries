@@ -1,0 +1,88 @@
+8
+
+dir
+155925
+https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/DraggableView/Classes
+https://prod.oreilly.com
+
+
+
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+Draggable.m
+file
+
+
+
+
+2008-12-03T17:34:39.000000Z
+b7076531a06e03fd1fabed7bf4468858
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+DraggableViewAppDelegate.h
+file
+
+
+
+
+2008-12-03T17:20:53.000000Z
+68aa3c5b89242e4f293a6c7313ea4cee
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+DraggableViewViewController.h
+file
+
+
+
+
+2008-12-03T17:30:21.000000Z
+0a8e4f61e462889bdf9bbf92b08b7e04
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+DraggableViewAppDelegate.m
+file
+
+
+
+
+2008-12-03T17:20:53.000000Z
+bb6384abf5288550f4c7d64187e990f4
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+DraggableViewViewController.m
+file
+
+
+
+
+2008-12-03T17:30:05.000000Z
+ff99291ef60a040eba9fb649c44f7fd5
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+Draggable.h
+file
+
+
+
+
+2008-12-03T17:28:31.000000Z
+f7674d9326373b7272764c36c2bbc753
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+

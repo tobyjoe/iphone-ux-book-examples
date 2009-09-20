@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/135490/external/authors/books/9780596155469/current/projects/UITabBarControllerSample
+END
+main.m
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/116515/external/authors/books/9780596155469/current/projects/UITabBarControllerSample/main.m
+END
+Info.plist
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/116515/external/authors/books/9780596155469/current/projects/UITabBarControllerSample/Info.plist
+END
+UITabBarControllerSample_Prefix.pch
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/116515/external/authors/books/9780596155469/current/projects/UITabBarControllerSample/UITabBarControllerSample_Prefix.pch
+END
+SecondView.xib
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/116515/external/authors/books/9780596155469/current/projects/UITabBarControllerSample/SecondView.xib
+END
+MainWindow.xib
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/116515/external/authors/books/9780596155469/current/projects/UITabBarControllerSample/MainWindow.xib
+END

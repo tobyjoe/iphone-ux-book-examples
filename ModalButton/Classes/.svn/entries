@@ -1,0 +1,88 @@
+8
+
+dir
+155925
+https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/ModalButton/Classes
+https://prod.oreilly.com
+
+
+
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+ModalButtonAppDelegate.m
+file
+
+
+
+
+2008-12-21T22:47:28.000000Z
+b722fe586cee05e37e2e2faec217cdcb
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+ModalButtonViewController.m
+file
+
+
+
+
+2008-12-24T17:51:14.000000Z
+c4958071e28e850acc430ebe05754906
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+ModalButton.m
+file
+
+
+
+
+2008-12-24T18:23:13.000000Z
+22e19b5b2337560009453fb28f809705
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+ModalButtonAppDelegate.h
+file
+
+
+
+
+2008-12-21T22:47:28.000000Z
+45e4ccfc1b0a93c7e283664cf1e43566
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+ModalButtonViewController.h
+file
+
+
+
+
+2008-12-24T16:50:13.000000Z
+bbd25aca5375499abfca9c25543516b5
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+ModalButton.h
+file
+
+
+
+
+2008-12-24T17:11:34.000000Z
+95963e45f0120297ee09cf47f4dbf394
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+

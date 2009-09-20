@@ -1,0 +1,107 @@
+8
+
+dir
+155925
+https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/BarGame
+https://prod.oreilly.com
+
+
+
+2009-03-08T23:17:37.322295Z
+137121
+tj@tobyjoe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+116dc4a9-b042-40dd-b87b-4fe04d0a746b
+
+main.m
+file
+
+
+
+
+2008-12-02T15:31:36.000000Z
+b2cd50c70c2efd5d3d4eac035a90d0f9
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+murray.png
+file
+
+
+
+
+2008-12-03T03:57:42.000000Z
+e619c48035613ccfa30aa5c868943de2
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+has-props
+
+BarGame_Prefix.pch
+file
+
+
+
+
+2008-12-02T15:31:36.000000Z
+9f8caab2707c9424679f571258e996d3
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+Info.plist
+file
+
+
+
+
+2008-12-02T15:31:36.000000Z
+fd8d6f7c01cc14c6e01f6184572a6ba3
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+BarGame.xcodeproj
+dir
+
+Classes
+dir
+
+MainWindow.xib
+file
+
+
+
+
+2008-12-02T15:31:36.000000Z
+329cfa6f951d7872ffbf5968d605628b
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+BarGameViewController.xib
+file
+
+
+
+
+2008-12-03T15:23:55.000000Z
+37c74762be1b7d191ef9b184b0d2b1a2
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+

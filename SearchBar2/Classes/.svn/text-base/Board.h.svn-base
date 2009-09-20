@@ -1,0 +1,26 @@
+//
+//  Board.h
+//  Tiles
+//
+//  Created by Toby Boudreaux on 12/4/08.
+//  Copyright 2008 CTO, The Barbarian Group. All rights reserved.
+//
+
+#import <UIKit/UIKit.h>
+#import "Tile.h"
+
+@interface Board : UIView {
+	NSMutableArray *tiles;
+	Tile *currentTile;
+	BOOL hasTiles;
+}
+
+@property (nonatomic, retain) NSMutableArray *tiles;
+@property (nonatomic, assign) BOOL hasTiles;
+
+- (void)clear;
+- (IBAction)removeSelectedTiles;
+- (void)addTile;
+- (void)removeTile:(Tile *)tile;
+
+@end

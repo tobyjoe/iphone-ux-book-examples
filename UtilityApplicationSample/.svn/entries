@@ -1,0 +1,106 @@
+8
+
+dir
+155925
+https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/UtilityApplicationSample
+https://prod.oreilly.com
+
+
+
+2008-12-30T05:07:03.930876Z
+124732
+tj@tobyjoe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+116dc4a9-b042-40dd-b87b-4fe04d0a746b
+
+main.m
+file
+
+
+
+
+2008-11-02T19:59:01.000000Z
+74dc86e79a7aaeed2450403e41b227a9
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+UtilityApplicationSample_Prefix.pch
+file
+
+
+
+
+2008-11-02T19:59:01.000000Z
+87ae31dda3396f2025a5fa320781075e
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+MainView.xib
+file
+
+
+
+
+2008-11-02T19:59:01.000000Z
+b0ad907f923c3454fe40999d8f402f0e
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+Info.plist
+file
+
+
+
+
+2008-11-02T19:59:01.000000Z
+21ec0dfdd3ba71ebd3dca4b9576773b1
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+UtilityApplicationSample.xcodeproj
+dir
+
+FlipsideView.xib
+file
+
+
+
+
+2008-11-02T19:59:01.000000Z
+4443fd6eb29542ae991fe16ebee1fa7d
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+Classes
+dir
+
+MainWindow.xib
+file
+
+
+
+
+2008-11-02T19:59:01.000000Z
+c6bdc2736f1813abb856a0aaf1badbf3
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+

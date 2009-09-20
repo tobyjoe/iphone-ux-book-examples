@@ -1,0 +1,94 @@
+8
+
+dir
+155925
+https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/UINavigationControllerSample
+https://prod.oreilly.com
+
+
+
+2009-05-24T18:42:42.894955Z
+152548
+tj@tobyjoe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+116dc4a9-b042-40dd-b87b-4fe04d0a746b
+
+main.m
+file
+
+
+
+
+2008-11-02T19:05:37.000000Z
+eec5c6b5f65bcc677e9fa6498ba8d6f3
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+UINavigationControllerSample.xcodeproj
+dir
+
+RootViewController.xib
+file
+
+
+
+
+2008-11-02T19:12:51.000000Z
+997c21d6c8aad22ed377211aa0cabc18
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+Info.plist
+file
+
+
+
+
+2008-11-02T19:05:37.000000Z
+21ec0dfdd3ba71ebd3dca4b9576773b1
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+UINavigationControllerSample_Prefix.pch
+file
+
+
+
+
+2008-11-02T19:05:37.000000Z
+e15e5e619d822c47c2a3f55057000d0c
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+Classes
+dir
+
+MainWindow.xib
+file
+
+
+
+
+2008-11-02T19:05:37.000000Z
+720bca3a9086b5e688b276baa42986c7
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+

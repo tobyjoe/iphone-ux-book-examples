@@ -1,0 +1,88 @@
+8
+
+dir
+155925
+https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/Rotator/Classes
+https://prod.oreilly.com
+
+
+
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+RotatorViewController.h
+file
+
+
+
+
+2009-02-03T23:22:26.000000Z
+5da6ccaa9cc1c1bc22bef6c6e2a206ba
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+RotatorAppDelegate.m
+file
+
+
+
+
+2009-02-03T16:43:08.000000Z
+1f043e7067564b24b07d1b198cfd6cd5
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+RotatorViewController.m
+file
+
+
+
+
+2009-02-03T23:33:26.000000Z
+4c98424fd60a2ecc46a68508c773d08c
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+SearchView.h
+file
+
+
+
+
+2009-02-03T23:21:42.000000Z
+5f9590fc484bc728ba31c515173f6565
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+SearchView.m
+file
+
+
+
+
+2009-02-03T23:21:54.000000Z
+097bd328019e9ee963d0d83320835087
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+RotatorAppDelegate.h
+file
+
+
+
+
+2009-02-03T16:43:08.000000Z
+d91b38ae3d97d1d05ee61cbf05b97059
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+

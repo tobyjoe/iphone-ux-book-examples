@@ -1,0 +1,107 @@
+8
+
+dir
+155925
+https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/ImageGallery
+https://prod.oreilly.com
+
+
+
+2009-05-24T18:42:42.894955Z
+152548
+tj@tobyjoe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+116dc4a9-b042-40dd-b87b-4fe04d0a746b
+
+main.m
+file
+
+
+
+
+2008-12-03T16:06:51.000000Z
+c14d4283bc21705c74501cae493c14e4
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+ImageGalleryViewController.xib
+file
+
+
+
+
+2008-12-03T16:21:39.000000Z
+3387e8133b371ddbead3be75f739d3f5
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+murray.png
+file
+
+
+
+
+2008-12-03T03:57:42.000000Z
+e619c48035613ccfa30aa5c868943de2
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+has-props
+
+Info.plist
+file
+
+
+
+
+2008-12-03T16:06:50.000000Z
+fd8d6f7c01cc14c6e01f6184572a6ba3
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+ImageGallery_Prefix.pch
+file
+
+
+
+
+2008-12-03T16:06:50.000000Z
+4e96ff8f1df5077c858bc9848e768604
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+Classes
+dir
+
+MainWindow.xib
+file
+
+
+
+
+2008-12-03T16:06:50.000000Z
+16be49966235157e3fc2d90ef3a43771
+2008-12-04T02:45:15.692319Z
+121629
+tj@tobyjoe.com
+
+ImageGallery.xcodeproj
+dir
+

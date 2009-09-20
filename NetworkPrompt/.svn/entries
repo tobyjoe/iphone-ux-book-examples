@@ -1,0 +1,94 @@
+8
+
+dir
+155925
+https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/NetworkPrompt
+https://prod.oreilly.com
+
+
+
+2009-03-08T23:18:55.034846Z
+137123
+tj@tobyjoe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+116dc4a9-b042-40dd-b87b-4fe04d0a746b
+
+main.m
+file
+
+
+
+
+2009-02-21T18:47:05.000000Z
+437efbb32e5d0f1e57c4dea6c72bc670
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+NetworkPrompt_Prefix.pch
+file
+
+
+
+
+2009-02-21T18:47:05.000000Z
+dbab605492f95129d7a7477e54d4b1cc
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+RootViewController.xib
+file
+
+
+
+
+2009-02-21T21:32:04.000000Z
+24298349c55dd6f605e3cc74c06500ec
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+Info.plist
+file
+
+
+
+
+2009-02-21T18:47:05.000000Z
+fd8d6f7c01cc14c6e01f6184572a6ba3
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+
+NetworkPrompt.xcodeproj
+dir
+
+Classes
+dir
+
+MainWindow.xib
+file
+
+
+
+
+2009-02-21T18:47:05.000000Z
+da5d7b1142ff60c2f2b16ee1dadd1edf
+2009-03-08T23:14:39.753575Z
+137119
+tj@tobyjoe.com
+

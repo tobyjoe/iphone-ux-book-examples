@@ -1,0 +1,107 @@
+8
+
+dir
+155925
+https://prod.oreilly.com/external/authors/books/9780596155469/current/projects/UITableViewSample
+https://prod.oreilly.com
+
+
+
+2009-05-24T18:42:42.894955Z
+152548
+tj@tobyjoe.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+116dc4a9-b042-40dd-b87b-4fe04d0a746b
+
+main.m
+file
+
+
+
+
+2008-11-01T19:12:14.000000Z
+244649fe7042ba9a7abeb731d35e81b3
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+RootViewController.xib
+file
+
+
+
+
+2008-11-01T19:12:14.000000Z
+e37a9c855b2b1ef3464d8649d2f99666
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+Info.plist
+file
+
+
+
+
+2008-11-01T19:12:14.000000Z
+21ec0dfdd3ba71ebd3dca4b9576773b1
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+UITableViewSample_Prefix.pch
+file
+
+
+
+
+2008-11-01T19:12:14.000000Z
+0b84394e8fb5d8948e020c36a654919e
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+tobyjoe.jpg
+file
+
+
+
+
+2008-11-01T21:10:22.000000Z
+578d548df3e2286a6d0b767487afe8c2
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+has-props
+
+Classes
+dir
+
+MainWindow.xib
+file
+
+
+
+
+2008-11-01T20:59:41.000000Z
+d2ebac523156b968d6b9b7315fbae8ad
+2008-11-03T21:58:08.475756Z
+116515
+tj@tobyjoe.com
+
+UITableViewSample.xcodeproj
+dir
+

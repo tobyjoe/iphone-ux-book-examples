@@ -1,0 +1,8 @@
+//
+// Prefix header for all source files of the 'UINavigationControllerSample' target in the 'UINavigationControllerSample' project
+//
+
+#ifdef __OBJC__
+    #import <Foundation/Foundation.h>
+    #import <UIKit/UIKit.h>
+#endif
